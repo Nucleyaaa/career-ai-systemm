@@ -1,0 +1,32 @@
+{
+  "data_scientist": {
+    "min_salary": 95000,
+    "max_salary": 150000,
+    "avg_salary": 120000,
+    "demand_index": 0.85,
+    "growth_rate": 0.15,
+    "automation_risk": 0.1,
+    "top_locations": ["San Francisco", "New York", "Seattle", "Boston"],
+    "top_industries": ["Technology", "Finance", "Healthcare", "Retail"]
+  },
+  "sales_manager": {
+    "min_salary": 70000,
+    "max_salary": 120000,
+    "avg_salary": 95000,
+    "demand_index": 0.65,
+    "growth_rate": 0.05,
+    "automation_risk": 0.3,
+    "top_locations": ["New York", "Chicago", "Dallas", "Atlanta"],
+    "top_industries": ["Technology", "Manufacturing", "Healthcare", "Real Estate"]
+  },
+  "ux_designer": {
+    "min_salary": 65000,
+    "max_salary": 110000,
+    "avg_salary": 85000,
+    "demand_index": 0.8,
+    "growth_rate": 0.1,
+    "automation_risk": 0.15,
+    "top_locations": ["San Francisco", "New York", "Austin", "Seattle"],
+    "top_industries": ["Technology", "E-commerce", "Media", "Consulting"]
+  }
+}
